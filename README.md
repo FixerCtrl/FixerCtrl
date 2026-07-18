@@ -5,7 +5,9 @@
 
 ---
 
-<img width="1366" height="768" alt="Cybersecurity" src="https://github.com/user-attachments/assets/09c43ccc-8d89-4413-b0df-d09791f519bd" />
+
+<img width="1366" height="3109" alt="Cybersecurity (2)" src="https://github.com/user-attachments/assets/8e06504e-4a1a-46fa-842b-c7e584cb39c8" />
+
 
 ---
 
