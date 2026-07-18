@@ -1,35 +1,60 @@
-Hi, I'm Mlungisi  
+# Hi, I'm Mlungisi 👋
 Welcome to my GitHub!
 
+![Profile Banner](https://copilot.microsoft.com/th/id/BCO.e195cc76-a6dd-44b4-a5b6-bf6af032c260.png)
+
+---
+
+## 🌐 Connect with Me
 [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://youtube.com/yourchannel)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/yourusername)
 
-## About Me
-Hello! I'm Mlungisi, passionate about cybersecurity and penetration testing.  
-Currently working through Hack The Box labs and building my foundation in ethical hacking.  
-My focus is on Red Team techniques, defensive strategies, and real-world applications of cybersecurity.v
+---
 
-## Education and Certifications
-🎓 Undergraduate student at University of Pretoria  
-🎓 Working towards certifications in penetration testing and cybersecurity fundamentals  
-🔍 Hack The Box Academy modules (INL 380, OBS 210, INL 360)  
+## 🧑‍💻 About Me
+Aspiring **Cybersecurity Enthusiast & Hack The Box Explorer**  
+🎓 Undergraduate student at **University of Pretoria**  
+🔐 Passionate about **penetration testing, ethical hacking, and community outreach**  
 
-## Experience and Projects
-💼 Exploring penetration testing through Hack The Box challenges  
-🛠️ Building Python tools for port scanning and automation  
-🌐 Interested in creating a youth foundation website with a frog mascot logo  
-🎥 Sharing knowledge through community outreach and sports development initiatives
+---
 
-## My Skills
-👉 Programming: Python, JavaScript, Java  
-👉 Cybersecurity Tools: Nmap, Burp Suite, Wireshark, Hack The Box  
-👉 Databases: MySQL, PostgreSQL  
-👉 Design: Canva, Adobe Photoshop  
-👉 Platforms: Linux, GitHub Pages, WordPress  
+## 🎓 Education & Certifications
+- University of Pretoria – Information Science & Cybersecurity focus  
+- Hack The Box Academy – Red Team & Blue Team modules  
+- Working towards **eJPT** and **HTB Web Exploitation Specialist**  
 
-## Featured Projects
-- **Port Scanner Tool** – Python-based scanner for ethical testing  
+---
+
+## 🚀 Projects & Experience
+- 🛠 **Port Scanner Tool** – Python script for ethical testing  
+- 🌐 **Youth Foundation Website** – Community outreach platform with frog mascot logo  
+- 🎯 **Hack The Box CTF Challenges** – Notes and solutions for labs  
+
+---
+
+## 🛠 Skills
+- **Programming:** Python, JavaScript, Java  
+- **Cybersecurity Tools:** Nmap, Burp Suite, Wireshark  
+- **Databases:** MySQL, PostgreSQL  
+- **Design:** Canva, Adobe Photoshop  
+- **Platforms:** Linux, GitHub Pages, WordPress  
+
+---
+
+## 📊 GitHub Stats
+![Mlungisi's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
+
+## 🌍 Community Outreach
+- ⚡ Cybersecurity workshops for youth  
+- ⚽ Sports development programs (cricket & soccer)  
+- 🐸 Mascot/logo design for foundations  
+
+---
+
 
 <!--
 **FixerCtrl/FixerCtrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
