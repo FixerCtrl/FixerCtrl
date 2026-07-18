@@ -1,16 +1,17 @@
-# Hi, I'm Mlungisi 👋
-### Cybersecurity & Software Development Enthusiast
+# Hi, I'm Mlungisi 👋  
+### Cybersecurity | Software Development | Ethical Hacking
+
+---
+
+![Cybersecurity Banner](https://upload.wikimedia.org/wikipedia/commons/3/3a/Cybersecurity_banner.jpg)
 
 ---
 
 ## 🚀 About Me
-I’m an aspiring cybersecurity professional with a strong foundation in **penetration testing, network defense, and secure software development**.  
-Currently pursuing my undergraduate degree at the **University of Pretoria**, I combine academic knowledge with hands‑on technical projects to build practical, scalable solutions.
+I’m a **cybersecurity enthusiast** and **software developer** passionate about building secure, efficient systems.  
+Currently studying at the **University of Pretoria**, I combine academic theory with hands‑on technical projects to solve real‑world problems.
 
-My focus areas include:
-- **Red Team operations** – offensive testing and vulnerability assessment  
-- **Blue Team defense** – threat detection and mitigation  
-- **Secure coding** – writing resilient applications in Python and JavaScript  
+💡 I thrive in environments that demand precision, creativity, and ethical responsibility — whether it’s analyzing vulnerabilities, writing clean code, or automating security tasks.
 
 ---
 
@@ -25,23 +26,32 @@ My focus areas include:
 | **Databases** | MySQL, PostgreSQL |
 | **Version Control** | Git, GitHub |
 | **Cloud & Hosting** | GitHub Pages, Docker |
-| **Design & Documentation** | Markdown, Canva, Adobe Illustrator |
+| **Documentation & Design** | Markdown, Canva, Adobe Illustrator |
+
+![Coding Workspace](https://upload.wikimedia.org/wikipedia/commons/6/62/Computer_programming.jpg)
 
 ---
 
 ## 🧩 Projects & Contributions
 
-### 🔹 Port Scanner Tool
+### 🔹 **Port Scanner Tool**
 A Python‑based network scanner that identifies open ports and services.  
-**Skills demonstrated:** socket programming, threading, exception handling.
+**Skills demonstrated:** socket programming, threading, exception handling.  
+![Port Scanning](https://upload.wikimedia.org/wikipedia/commons/5/5a/Network_security.jpg)
 
-### 🔹 Vulnerability Lab Scripts
+---
+
+### 🔹 **Vulnerability Lab Scripts**
 Custom scripts for ethical testing environments (Hack The Box, TryHackMe).  
-**Skills demonstrated:** automation, reconnaissance, exploit simulation.
+**Skills demonstrated:** automation, reconnaissance, exploit simulation.  
+![Ethical Hacking](https://upload.wikimedia.org/wikipedia/commons/9/9e/Hacker_in_hoodie.jpg)
 
-### 🔹 Secure Web Application Demo
+---
+
+### 🔹 **Secure Web Application Demo**
 Developed a mock login system with input sanitization and encryption.  
-**Skills demonstrated:** web security, backend development, data protection.
+**Skills demonstrated:** web security, backend development, data protection.  
+![Web Security](https://upload.wikimedia.org/wikipedia/commons/2/2a/Web_security_lock.jpg)
 
 ---
 
@@ -57,6 +67,8 @@ Developed a mock login system with input sanitization and encryption.
 - **Collaborative developer:** I value teamwork, code reviews, and open‑source contribution.  
 - **Ethical hacker:** I adhere to responsible disclosure and legal testing principles.
 
+![Team Collaboration](https://upload.wikimedia.org/wikipedia/commons/3/3b/Teamwork_in_office.jpg)
+
 ---
 
 ## 📬 Contact
@@ -67,4 +79,5 @@ Developed a mock login system with input sanitization and encryption.
 ---
 
 > “Security is not a product, but a process.” — Bruce Schneier
+
 
