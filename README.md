@@ -1,72 +1,70 @@
 # Hi, I'm Mlungisi 👋
-Welcome to my GitHub!
-
-![Profile Banner](https://copilot.microsoft.com/th/id/BCO.e195cc76-a6dd-44b4-a5b6-bf6af032c260.png)
+### Cybersecurity & Software Development Enthusiast
 
 ---
 
-## 🌐 Connect with Me
-[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://youtube.com/yourchannel)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/yourusername)
+## 🚀 About Me
+I’m an aspiring cybersecurity professional with a strong foundation in **penetration testing, network defense, and secure software development**.  
+Currently pursuing my undergraduate degree at the **University of Pretoria**, I combine academic knowledge with hands‑on technical projects to build practical, scalable solutions.
+
+My focus areas include:
+- **Red Team operations** – offensive testing and vulnerability assessment  
+- **Blue Team defense** – threat detection and mitigation  
+- **Secure coding** – writing resilient applications in Python and JavaScript  
 
 ---
 
-## 🧑‍💻 About Me
-Aspiring **Cybersecurity Enthusiast & Hack The Box Explorer**  
-🎓 Undergraduate student at **University of Pretoria**  
-🔐 Passionate about **penetration testing, ethical hacking, and community outreach**  
+## 🧠 Technical Skills
+
+| Category | Tools & Technologies |
+|-----------|----------------------|
+| **Programming** | Python, JavaScript, Java, PHP |
+| **Web Development** | HTML, CSS, Flask, Node.js |
+| **Cybersecurity Tools** | Nmap, Burp Suite, Wireshark, Metasploit |
+| **Operating Systems** | Linux (Kali, Ubuntu), Windows |
+| **Databases** | MySQL, PostgreSQL |
+| **Version Control** | Git, GitHub |
+| **Cloud & Hosting** | GitHub Pages, Docker |
+| **Design & Documentation** | Markdown, Canva, Adobe Illustrator |
 
 ---
 
-## 🎓 Education & Certifications
-- University of Pretoria – Information Science & Cybersecurity focus  
-- Hack The Box Academy – Red Team & Blue Team modules  
-- Working towards **eJPT** and **HTB Web Exploitation Specialist**  
+## 🧩 Projects & Contributions
+
+### 🔹 Port Scanner Tool
+A Python‑based network scanner that identifies open ports and services.  
+**Skills demonstrated:** socket programming, threading, exception handling.
+
+### 🔹 Vulnerability Lab Scripts
+Custom scripts for ethical testing environments (Hack The Box, TryHackMe).  
+**Skills demonstrated:** automation, reconnaissance, exploit simulation.
+
+### 🔹 Secure Web Application Demo
+Developed a mock login system with input sanitization and encryption.  
+**Skills demonstrated:** web security, backend development, data protection.
 
 ---
 
-## 🚀 Projects & Experience
-- 🛠 **Port Scanner Tool** – Python script for ethical testing  
-- 🌐 **Youth Foundation Website** – Community outreach platform with frog mascot logo  
-- 🎯 **Hack The Box CTF Challenges** – Notes and solutions for labs  
+## 📊 GitHub Analytics
+![Mlungisi's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
 
 ---
 
-## 🛠 Skills
-- **Programming:** Python, JavaScript, Java  
-- **Cybersecurity Tools:** Nmap, Burp Suite, Wireshark  
-- **Databases:** MySQL, PostgreSQL  
-- **Design:** Canva, Adobe Photoshop  
-- **Platforms:** Linux, GitHub Pages, WordPress  
+## 🧩 Professional Mindset
+- **Analytical thinker:** I approach problems methodically, using data‑driven reasoning.  
+- **Continuous learner:** I actively pursue certifications and labs to stay ahead of evolving threats.  
+- **Collaborative developer:** I value teamwork, code reviews, and open‑source contribution.  
+- **Ethical hacker:** I adhere to responsible disclosure and legal testing principles.
 
 ---
 
-## 📊 GitHub Stats
-![Mlungisi's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+## 📬 Contact
+📧 Email: [your.email@example.com](mailto:your.email@example.com)  
+💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
 
 ---
 
-## 🌍 Community Outreach
-- ⚡ Cybersecurity workshops for youth  
-- ⚽ Sports development programs (cricket & soccer)  
-- 🐸 Mascot/logo design for foundations  
+> “Security is not a product, but a process.” — Bruce Schneier
 
----
-
-
-<!--
-**FixerCtrl/FixerCtrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
