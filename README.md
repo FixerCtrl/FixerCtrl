@@ -56,28 +56,5 @@ Developed a mock login system with input sanitization and encryption.
 ---
 
 ## 📊 GitHub Analytics
-![Mlungisi's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
-
----
-
-## 🧩 Professional Mindset
-- **Analytical thinker:** I approach problems methodically, using data‑driven reasoning.  
-- **Continuous learner:** I actively pursue certifications and labs to stay ahead of evolving threats.  
-- **Collaborative developer:** I value teamwork, code reviews, and open‑source contribution.  
-- **Ethical hacker:** I adhere to responsible disclosure and legal testing principles.
-
-![Team Collaboration](https://upload.wikimedia.org/wikipedia/commons/3/3b/Teamwork_in_office.jpg)
-
----
-
-## 📬 Contact
-📧 Email: [your.email@example.com](mailto:your.email@example.com)  
-💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
-
----
-
-> “Security is not a product, but a process.” — Bruce Schneier
-
+![Mlungisi's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyon
 
