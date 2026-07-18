@@ -3,7 +3,7 @@
 
 ---
 
-![Cybersecurity Banner]<img width="1366" height="768" alt="Cybersecurity" src="https://github.com/user-attachments/assets/09c43ccc-8d89-4413-b0df-d09791f519bd" />
+<img width="1366" height="768" alt="Cybersecurity" src="https://github.com/user-attachments/assets/09c43ccc-8d89-4413-b0df-d09791f519bd" />
 
 ---
 
